@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+     <button type="button" onclick="alert('Welcome to Anas Sigma website')">Click Click Me!</button>
 <form action="/action_page.php" method="get">
   <label for="fname">First name:</label>
   <input type="text" id="fname" name="fname"><br><br>
